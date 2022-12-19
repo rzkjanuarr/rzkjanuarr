@@ -5,7 +5,6 @@
 - 🔭 I’m I am currently studying at the [State University of Surabaya](https://www.unesa.ac.id/)
 - 🌱 I’m currently learning HTML CSS dan UI/UX
 - 👯 I’m looking to collaborate as Frontend Developer
-- 🤔 I’m looking for suggest for Automation and Data Analyst
 - 💬 Ask me about anything
 - 📫 How to reach me: rzkjanuarr@gmail.com
 
