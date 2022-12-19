@@ -23,7 +23,7 @@
 
 ## Work Experience:
 
-#### 1. [Kominfo Digitaltalent Skilvul UI/UX ](https://skilvul.com/) | Training Program | Online `August' - Oct 2022`
+#### 1. [Kominfo Digitaltalent Skilvul UI/UX ](https://skilvul.com/) | Training Program | Online `August - Oct 2022`
 
 - "This project is part of the UI/UX training program implemented by Skilvul, for the Merdeka Campus program organized by the Ministry of Education, Culture, Research and Technology of the Republic of Indonesia. Bank Jago is the Challenge Partner. I am not working for or professionally contracted by Bank Jago.”
 - Looking for any pan points design
