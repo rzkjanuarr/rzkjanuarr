@@ -15,11 +15,6 @@
 - B2C Ecommerce project with "Local Pride Store" theme using Laravel framework
 - Build an Online Store Website with Laravel, Nuxt.js and Payment Gateway
 
-#### 2. [SMA Wachid Hasyim 2 Taman](https://smawh2.sch.id/) | MIPA | Sidoarjo `2017-2020`
-
-- Paskib
-- LDKS
-
 ## Work Experience:
 
 #### 1. [Kominfo Digitaltalent Skilvul UI/UX ](https://skilvul.com/) | Training Program | Online `August - Oct 2022`
